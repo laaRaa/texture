@@ -1,1 +1,1 @@
-# gaussian_blur
+# multiscale texture synthesis
