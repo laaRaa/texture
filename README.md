@@ -1,1 +1,1 @@
-# multiscale texture synthesis
+# texture
